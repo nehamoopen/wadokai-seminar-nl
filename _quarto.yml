@@ -9,8 +9,8 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - program.qmd
       - registration.qmd
+      - program.qmd
       - getting-around.qmd
       - contact.qmd
 
