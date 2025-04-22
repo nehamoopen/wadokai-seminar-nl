@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "JKF Wadokai: Netherlands Seminar"
+  title: "JKF Wadokai Netherlands: Karate Seminar 2025"
   navbar:
     background: "#145DA0"
     search: true
